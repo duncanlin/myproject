@@ -1,2 +1,2 @@
 # myproject
-first project test github
+First use gitHub and pratices Leetcode
